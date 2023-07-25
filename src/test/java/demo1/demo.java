@@ -12,6 +12,10 @@ public class demo {
 	private void test5() {
        System.out.println("test-5");
 	}
+    @Test
+	private void test6() {
+       System.out.println("test-6");
 	}
+}
 
 
