@@ -19,7 +19,7 @@ public class demo {
 	}
     @Test
 	private void test7() {
-       System.out.println("rueurfheu");
+       System.out.println("kjfisfjisfhi");
 }
 }
 
