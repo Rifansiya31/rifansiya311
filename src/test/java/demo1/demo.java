@@ -12,6 +12,15 @@ public class demo {
 	private void test5() {
        System.out.println("test-5");
 	}
+    @Test
+	private void test6() {
+       System.out.println("test-6");
+       
 	}
+    @Test
+	private void test7() {
+       System.out.println("rueurfheu");
+}
+}
 
 
